@@ -2,7 +2,7 @@
 
 ##  Why this dataset is suitable for industrial ML
 
-This dataset is highly representative of real-world industrial IoT systems because it contains:
+This dataset sourced from Kaggle is highly representative of real-world industrial IoT systems because it contains:
 
 - Time-series sensor data (timestamp-based behavior)
 - Multiple machine entities (machine_id)
@@ -11,7 +11,7 @@ This dataset is highly representative of real-world industrial IoT systems becau
 - Realistic operational variability
 
 This makes it suitable for building an end-to-end predictive maintenance pipeline similar to industrial SCADA systems used in Siemens / Bosch environments.
-
+https://www.kaggle.com/datasets/ziya07/smart-manufacturing-iot-cloud-monitoring-dataset?resource=download&select=smart_manufacturing_data.csv
 ---
 
 # ⚙️ End-to-End Machine Learning Pipeline
@@ -105,7 +105,7 @@ Final outputs for decision-making:
 
 # 🧠 System Architecture
 
-IoT Sensor Data(Source: Kaggle) 
+IoT Sensor Data 
 ↓  
 Data Ingestion (Spark / Databricks)  
 ↓  
