@@ -141,7 +141,7 @@ Health Classification (HEALTHY / WARNING / CRITICAL)
 ↓  
 Dashboard & Alert System  
 
-##Future Upgrade of this project
+# Future Upgrade of this project
 The current system focuses on machine health monitoring, anomaly detection, and risk scoring.
 
 In future iterations, this project can be extended from **real-time predictive maintenance** to **future failure forecasting (Prognostics / RUL prediction)**.
