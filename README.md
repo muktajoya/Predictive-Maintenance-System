@@ -1,6 +1,6 @@
 # 🏭 Predictive Maintenance System – Industry 4.0 Architecture
 
-## 📌 Why this dataset is suitable for industrial ML
+##  Why this dataset is suitable for industrial ML
 
 This dataset is highly representative of real-world industrial IoT systems because it contains:
 
@@ -94,11 +94,10 @@ Final outputs for decision-making:
 
 ---
 
-## 📊 Final Dashboard (Power BI)
+##  Final Dashboard (Power BI)
 
 - Fleet health overview
 - Risk distribution analysis
-- Top-N critical machines
 - Alert monitoring panel
 - Industrial SCADA-style UI
 
@@ -106,7 +105,7 @@ Final outputs for decision-making:
 
 # 🧠 System Architecture
 
-IoT Sensor Data  
+IoT Sensor Data (Source: Kaggle) 
 ↓  
 Data Ingestion (Spark / Databricks)  
 ↓  
@@ -125,6 +124,5 @@ Risk Scoring Engine
 Health Classification (HEALTHY / WARNING / CRITICAL)  
 ↓  
 Dashboard & Alert System  
-↓  
-Maintenance Decision Support
+
 
