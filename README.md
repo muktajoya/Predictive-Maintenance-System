@@ -1,7 +1,8 @@
-# 🏭 Predictive Maintenance System – Industry 4.0 Architecture
+# Predictive Maintenance System – Industry 4.0 Architecture
+# Developed by: Mukta Ghosh (Data Engineer / ML Engineer)
+
 
 ##  Why this dataset is suitable for industrial ML
-
 This dataset sourced from Kaggle is highly representative of real-world industrial IoT systems because it contains:
 
 - Time-series sensor data (timestamp-based behavior)
