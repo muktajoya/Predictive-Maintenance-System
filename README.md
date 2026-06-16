@@ -1,5 +1,5 @@
 # Predictive Maintenance System – Industry 4.0 Architecture
-# Developed by: Mukta Ghosh (Data Engineer / ML Engineer)
+  Developed by: Mukta Ghosh (Data Engineer / ML Engineer)
 
 
 ##  Why this dataset is suitable for industrial ML
