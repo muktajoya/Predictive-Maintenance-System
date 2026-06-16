@@ -1,5 +1,5 @@
 # Predictive Maintenance System – Industry 4.0 Architecture
-  Developed by: Mukta Ghosh (Data Engineer / ML Engineer)
+## Developed by:   Mukta Ghosh  (Data Engineer / ML Engineer)
 
 
 ##  Why this dataset is suitable for industrial ML
@@ -12,10 +12,11 @@ This dataset sourced from Kaggle is highly representative of real-world industri
 - Realistic operational variability
 
 This makes it suitable for building an end-to-end predictive maintenance pipeline similar to industrial SCADA systems used in Siemens / Bosch environments.
+
 https://www.kaggle.com/datasets/ziya07/smart-manufacturing-iot-cloud-monitoring-dataset?resource=download&select=smart_manufacturing_data.csv
 ---
 
-# ⚙️ End-to-End Machine Learning Pipeline
+# End-to-End Machine Learning Pipeline
 
 ## STEP A — Data Understanding
 - Missing value analysis
@@ -104,7 +105,7 @@ Final outputs for decision-making:
 
 ---
 
-# 🧠 System Architecture
+# System Architecture
 
 IoT Sensor Data 
 ↓  
