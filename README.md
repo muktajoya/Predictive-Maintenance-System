@@ -19,9 +19,9 @@ The goal of this system is to support data-driven maintenance decisions in Indus
   - Detecting anomalies before failure occurs
   - Assigning a real-time risk score to each machine
   - Classifying machines into HEALTHY / WARNING / CRITICAL states
-  - Providing a dashboard for proactive maintenance decisions
+  - Providing a dashboard for maintenance decision supports
 
-This enables a shift from reactive maintenance → predictive maintenance, reducing downtime and improving operational efficiency.
+This enables a shift from reactive maintenance → predictive maintenance, reducing downtime and improving operational efficiency. The system enables real-time predictive maintenance, allowing teams to monitor machine health and take timely action before failures occur.
 
 ##  Why choosed kaggle dataset is suitable for industrial ML
 This dataset sourced from Kaggle is highly representative of real-world industrial IoT systems because it contains:
