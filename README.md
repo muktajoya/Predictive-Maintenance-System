@@ -154,7 +154,7 @@ In future iterations, this project can be extended from **real-time predictive m
 • Early warning system before machine reaches CRITICAL state  
 • Transition from classification → regression-based predictive maintenance  
 
-### 🧠 Expected Outcome:
+### Expected Outcome:
 
 Instead of only identifying:
 - HEALTHY / WARNING / CRITICAL
@@ -165,7 +165,7 @@ The system will be able to predict:
 - Degradation trend of machine health  
 - Future risk trajectory  
 
-### 🏭 Impact:
+### Impact:
 
 This upgrade moves the system from:
 **Reactive + Predictive Maintenance → Proactive + Forecasting-based Maintenance**
