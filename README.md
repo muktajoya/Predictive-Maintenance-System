@@ -105,7 +105,7 @@ Final outputs for decision-making:
 
 # 🧠 System Architecture
 
-IoT Sensor Data (Source: Kaggle) 
+IoT Sensor Data(Source: Kaggle) 
 ↓  
 Data Ingestion (Spark / Databricks)  
 ↓  
